@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi, I'm Ahmed Selim
 
-<!--
-**A-Selim/A-selim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About me
+💡 Self taught front-end developer.
+🎓 Currently studying Front-end Developer Nanodegree @ Udacity.
+🔭 Looking for new opportunities.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git | Github | Bitbucket
+- Photoshop | Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡️ Projects
+- [Personal Blog](https://a-selim.github.io/personal-blog-website/)
+- [Calculator](https://a-selim.github.io/calculator/)
+- [Landing page](https://a-selim.github.io/landing-page/)
