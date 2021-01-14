@@ -13,6 +13,6 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
-- [Personal Blog](https://a-selim.github.io/personal-blog-website/)
-- [Calculator](https://a-selim.github.io/calculator/)
 - [Landing page](https://a-selim.github.io/landing-page/)
+- [Calculator](https://a-selim.github.io/calculator/)
+- [Personal Blog](https://a-selim.github.io/personal-blog-website/)
