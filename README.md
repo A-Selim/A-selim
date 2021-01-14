@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ahmed Selim
 
 ## 👨🏻‍💻 About me
-💡 Self taught front-end developer.
+💡 Self taught front-end developer. 
 🎓 Currently studying Front-end Developer Nanodegree @ Udacity.
-🔭 Looking for new opportunities.
+🔭 Looking for new opportunities. 
 
 ## 🛠 Tech Stack
 - HTML
