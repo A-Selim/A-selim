@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Ahmed Selim
 
 ## 👨🏻‍💻 About me
-💡  Self taught front-end developer.  
-🎓  Currently studying Front-end Developer Nanodegree @ Udacity.  
-🔭  Looking for new opportunities.  
+💡  Self taught front-end developer.
+🎓  Currently studying The Front-end Developer Career Path @ Scrimba.
+🔭  I'm looking for the next step in my career as a front-end developer.
 
 ## 🛠 Tech Stack
 - HTML
@@ -13,6 +13,9 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
-- [Landing page](https://a-selim.github.io/landing-page/)
+- [Pacman](https://a-selim.github.io/pacman/)
+- [Simple Life](https://a-selim.github.io/simple-life/)
+- [Phone Book](https://a-selim.github.io/phone-book/)
+- [Landing Page](https://a-selim.github.io/landing-page/)
 - [Calculator](https://a-selim.github.io/calculator/)
 - [Personal Blog](https://a-selim.github.io/personal-blog-website/)
