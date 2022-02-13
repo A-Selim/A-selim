@@ -13,6 +13,7 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
+- [War](https://a-selim.github.io/war/)
 - [Pacman](https://a-selim.github.io/pacman/)
 - [Simple Life](https://a-selim.github.io/simple-life/)
 - [Phone Book](https://a-selim.github.io/phone-book/)
