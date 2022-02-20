@@ -14,7 +14,7 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
-- [Personal Dashboard](https://github.com/A-Selim/personal-dashboard)
+- [Personal Dashboard](https://github.com/A-Selim/personal-dashboard) - Chrome extension.
 - [War](https://a-selim.github.io/war/)
 - [Pacman](https://a-selim.github.io/pacman/)
 - [Simple Life](https://a-selim.github.io/simple-life/)
