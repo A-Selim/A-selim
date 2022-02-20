@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ahmed Selim
 
 ## 👨🏻‍💻 About me
-💡  Self taught front-end developer.
-🎓  Currently studying The Front-end Developer Career Path @ Scrimba.
+💡  Self taught front-end developer.  
+🎓  Currently studying The Front-end Developer Career Path @ Scrimba.  
 🔭  I'm looking for the next step in my career as a front-end developer.
 
 ## 🛠 Tech Stack
