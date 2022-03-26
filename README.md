@@ -14,6 +14,10 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
+- [Invoice Creator](https://a-selim.github.io/invoice-creator/)
+- [Password Generator](https://a-selim.github.io/password-generator/)
+- [Unit Converter](https://a-selim.github.io/unit-converter/)
+- [Color Scheme Generator](https://a-selim.github.io/color-scheme-generator/)
 - [Personal Dashboard](https://github.com/A-Selim/personal-dashboard) - Chrome extension.
 - [War](https://a-selim.github.io/war/)
 - [Pacman](https://a-selim.github.io/pacman/)
