@@ -14,6 +14,7 @@
 - Photoshop | Figma
 
 ## ⚡️ Projects
+- [Gallery Page](https://a-selim.github.io/gallery-page/)
 - [Movies Watchlist](https://a-selim.github.io/movies-watchlist/)
 - [Invoice Creator](https://a-selim.github.io/invoice-creator/)
 - [Password Generator](https://a-selim.github.io/password-generator/)
