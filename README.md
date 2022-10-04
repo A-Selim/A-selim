@@ -9,11 +9,14 @@
 - HTML
 - CSS
 - JavaScript
+- React.js
 - REST API
 - Git | Github | Bitbucket
 - Photoshop | Figma
 
 ## ⚡️ Projects
+- [Quizzical](https://a-selim.github.io/quizzical/)
+- [Tenzi Game](https://a-selim.github.io/tenzi/)
 - [Gallery Page](https://a-selim.github.io/gallery-page/)
 - [Movies Watchlist](https://a-selim.github.io/movies-watchlist/)
 - [Invoice Creator](https://a-selim.github.io/invoice-creator/)
