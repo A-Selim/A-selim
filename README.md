@@ -29,4 +29,4 @@
 - [Phone Book](https://a-selim.github.io/phone-book/)
 - [Landing Page](https://a-selim.github.io/landing-page/)
 - [Calculator](https://a-selim.github.io/calculator/)
-- [Personal Blog](https://a-selim.github.io/personal-blog-website/)
+
