@@ -93,7 +93,7 @@ Generates complementary and analogous palettes from a single seed color, in Hex 
 
 <div align="center">
 
-## Let's connect and build something worth using
+**Let's connect and build something worth using**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedabdelhadiselim) &nbsp; [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.abdelhadi.selim@gmail.com)
 
